@@ -1,4 +1,4 @@
-                                                                             **My CSS battle Journey**
+                                                                             My CSS battle Journey
 
 
 This repository contains my daily solutions for CSSBattle.dev
@@ -50,6 +50,6 @@ Minify Your CSS
 
 🏆 My CSS Battle Profile
 
-https://cssbattle.dev/player/pItddlyrDbhJtQp8sym9qKIX4Cj1
+**https://cssbattle.dev/player/pItddlyrDbhJtQp8sym9qKIX4Cj1**
 
 ✨ Follow the repo for daily updates on my CSS Battle journey!
