@@ -1,4 +1,3 @@
-                                                                          My Css battle Journey
 
 This repository contains my daily solutions for CSSBattle.dev
  – the ultimate CSS code-golfing game where the goal is to replicate target designs with the least possible code.
