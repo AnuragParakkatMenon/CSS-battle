@@ -1,0 +1,33 @@
+<b class="a"></b>
+<div><b class="a b c"></b><b class="b"></b></div>
+<b></b
+><style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ea9a52;
+  }
+  div {
+    width: 120;
+    height: 120;
+    background: #6255aa;
+  }
+  b {
+    width: 0;
+    height: 0;
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+    border-left: 80px solid #6255aa;
+  }
+  .a {
+    rotate: 180deg;
+  }
+  .b {
+    position: absolute;
+    border-left: 80px solid #ffffff;
+  }
+  .c {
+    margin-left: 40;
+  }
+</style>
